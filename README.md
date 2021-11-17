@@ -1,3 +1,7 @@
+# Description
+
+The application takes a latitude and longitude and returns a list of the closest shops
+
 # Prerequisites
 * Java 11+
 * Gradle
